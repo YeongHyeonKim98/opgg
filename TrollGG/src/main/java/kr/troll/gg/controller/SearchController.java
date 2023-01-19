@@ -25,7 +25,7 @@ import kr.troll.gg.service.SearchService;
 
 @Controller
 public class SearchController {
-	final static String API_KEY = "RGAPI-1a27484f-e344-4477-88cc-3794054e1ced";		// API
+	final static String API_KEY = "RGAPI-3f01085c-7118-4d32-97c9-ffd6b6166d96";		// API
 	
 	@Autowired SearchService service;
 	
